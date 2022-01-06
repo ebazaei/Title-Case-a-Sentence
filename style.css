@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(70, 9, 9);
+    color: #FFF;
+    width: 80%;
+    margin: 20PX auto;
+    padding: 20px;
+    border: #ccc solid 1px;
+}
+
+h1{
+    font-size: 18px;
+}
